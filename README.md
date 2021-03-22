@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **GabrielDalacorte/gabrieldalacorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# :man_technologist: Gabriel Nunes
-![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?label=Linkedin&logo=Linkedin&link=https://www.linkedin.com/in/gabrieldalacorte/)
-
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 
 <details>
