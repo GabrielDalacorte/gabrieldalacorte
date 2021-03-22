@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # :man_technologist: Gabriel Nunes
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldalacorte/)](https://www.linkedin.com/in/gabrieldalacorte/)
-[![Gmail Badge](https://img.shields.io/badge/-E-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnunes.servico@gmail.com)](mailto:gnunes.servico@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gbigodon/)](https://www.instagram.com/gbigodon/)
+![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?label=Linkedin&logo=Linkedin)
 
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 
@@ -36,7 +34,6 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrieldalacorte&show_icons=true&theme=dracula)
 
 ### 💼 Trabalho com
-![Python]<i class="devicon-python-plain colored"></i>
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
