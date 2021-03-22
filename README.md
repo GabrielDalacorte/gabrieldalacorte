@@ -23,19 +23,24 @@ Here are some ideas to get you started:
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 
 ### 📖 Sobre mim
-Sou desenvolvedor fullstack, comecei minha jornada profissional ingressando na faculdade de Sistemas de Informação em 2017, mas sou do tempo do ActionScript Flash, onde criava jogos no Adobe Flash utilizando ActionScript e esse foi o meu primeiro contato com programação.
+Estudante de Analise e desenvolvimento de sistemas. Sempre gostei pesquisar e entender mais sobre tecnologia. Por isso, logo quando ganhei meu primeiro computador comecei a estudar mais a fundo sobre linguagens de programação e técnicas de desenvolvimento. 
 
-Sempre estive com um pé em artes gráficas, meu hobby é desenhar, e tenho conhecimentos em design, gosto de front-end também, por isso me considero fullstack porque consigo passar por todos esses processos, gosto de DevOps também utilizando a AWS. Sou muito curioso, e gosto de levar a arte para a programação.
+Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes. Meus colegas me descreveriam como uma pessoa motivada e engenhosa, que mantém uma atitude positiva e proativa diante das adversidades.
 
-Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem as empresas a venderem mais, atrair mais clientes e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO, campanhas e captação de leads. Acredito que a união da tecnologia com o marketing e a arte, cria um sistema diferenciado que proporciona uma experiência rica para os usuários.
-Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
+Atualmente, estou buscando oportunidades que me permitam desenvolver e promover tecnologias que beneficiem á todos. Os campos de interesse específicos incluem análise de sistemas, suporte técnico, desenvolvimento em Python, desenvolvimento Front-End e Back-End.
 </details>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrieldalacorte&show_icons=true&theme=dracula)
 
 ### 💼 Trabalho com
 
-![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=%230000ff&label=Postgresql&logo=Postgresql&logoColor=%230000ff&style=for-the-badge)![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=white&label=Python&logo=Python&logoColor=green&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=%230000ff&label=Postgresql&logo=Postgresql&logoColor=%230000ff&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=2fc8de&label=css&logo=css&logoColor=2fc8de&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=2278da&label=bootstrap&logo=bootstrap&logoColor=2278da&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=2278da&label=HTML&logo=html&logoColor=2278da&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=062422&label=windows&logo=windows&logoColor=062422&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=%23e27047&label=linux&logo=linux&logoColor=%23e27047&style=for-the-badge)
 
 
 ### 💻 Estudando atualmente
@@ -43,8 +48,8 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=%230000ff&label=Mysql%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&logo=mysql&logoColor=%230000ff&style=for-the-badge)
 
 ### 👀 Estou interessado
-![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=e2c647&label=java&logo=java&logoColor=e2c647&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=e2c647&label=javascript&logo=javascript&logoColor=e2c647&style=for-the-badge)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldalacorte&layout=compact)
 ---
