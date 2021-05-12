@@ -13,18 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
-
-<details>
-<summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
-
-### 📖 Sobre mim
-Estudante de Analise e desenvolvimento de sistemas. Sempre gostei pesquisar e entender mais sobre tecnologia. Por isso, logo quando ganhei meu primeiro computador comecei a estudar mais a fundo sobre linguagens de programação e técnicas de desenvolvimento. 
-
-Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes. Meus colegas me descreveriam como uma pessoa motivada e engenhosa, que mantém uma atitude positiva e proativa diante das adversidades.
-
-Atualmente, estou buscando oportunidades que me permitam desenvolver e promover tecnologias que beneficiem á todos. Os campos de interesse específicos incluem análise de sistemas, suporte técnico, desenvolvimento em Python, desenvolvimento Front-End e Back-End.
-</details>
+### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrieldalacorte&show_icons=true&theme=dracula)
 
