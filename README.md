@@ -1,34 +1,31 @@
 
-<!--
-**GabrielDalacorte/gabrieldalacorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá! Eu sou o Gabriel nunes
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Hoje estou trabalhando com Back-End 
+- 🌱 Estudando Java
 -->
-### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 
+ <div>
+  <a href="https://github.com/GabrielDalacorte">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDalacorte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDalacorte&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+</div>
+  
+  ##
+ 
+<div> 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrieldalacorte&show_icons=true&theme=dracula)
+  <a href = "mailto:gnunes.servico@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrieldalacorte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/GabrielDalacorte/GabrielDalacorte/blob/output/github-contribution-grid-snake.svg)
+ 
 
-### 💼 Trabalho com
-
-![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=white&label=Python&logo=Python&logoColor=green&style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=%230000ff&label=Postgresql&logo=Postgresql&logoColor=%230000ff&style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=%2300800&label=Django&logo=Django&logoColor=%2300800&style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=%230000ff&label=Mysql%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&logo=mysql&logoColor=%230000ff&style=for-the-badge)
-
-### 💻 Estudando atualmente
-![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=e2c647&label=java&logo=java&logoColor=e2c647&style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/GabrielDalacorte/gabrieldalacorte?color=e2c647&label=javascript&logo=javascript&logoColor=e2c647&style=for-the-badge)
-
-### 👀 Estou interessado
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldalacorte&layout=compact)
----
+</div>
