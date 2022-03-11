@@ -1,7 +1,7 @@
 
-## Olá! Eu sou o Gabriel nunes
+## Olá! Eu sou o Gabriel Dalacorte
 
-- 🔭 Hoje estou trabalhando com Back-End 
+- 🔭 Hoje estou trabalhando com Back-End em Python
 - 🌱 Estudando Java
 -->
  <div>
