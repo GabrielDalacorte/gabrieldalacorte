@@ -18,7 +18,10 @@
 
 <div align="center">
   <a href="https://github.com/GabrielDalacorte">
-
+  <div align="center">
+  <a href="https://github.com/rafazeero">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDalacorte&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&icon_color=EB5454&title_color=EBD3C0&text_color=DAE7EB&bg_color=141B18"/>
+  <img height="180em" src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=GabrielDalacorte&layout=compact&langs_count=10&theme=blueberry&icon_color=EB5454&text_color=EBD3C0&title_color=DAE7EB&bg_color=141B18"/>
   <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=gabrieldalacorte&theme=blueberry&fire=EB5454&ring=EBD3C0&sideNums=DAE7EB&background=141B18' />
 </div>
 
