@@ -7,8 +7,7 @@
 - 🎓 Bacharelado em **Analise e Desenvolvimento de Sistemas** pelo <a href="https://www.senacrs.com.br">Senac</a>.
 - 🎓 MBA em **Ciências de Dados e Inteligência Artificial ( Em progresso ) ** pelo <a href="https://salavirtual.pucrs.br">PUCRS</a>.
 - 💼 Trabalhando como **Lider Técnico** na <a href="https://cgcontadores.com.br/">CG Contadores</a>
-- 💼 Trabalhando como **Desenvolvedor Backend | ReacNative SR** na <a href="https://www.conceptu.ind.br/">Conceptu Protótipos & Sistemas</a>
-- 💼 Trabalhando como **Desenvolvedor Backend PL** na <a href="https://www.textecnologia.com.br/">Conceptu Protótipos & Sistemas</a>
+- 💼 Trabalhando como **Desenvolvedor Backend SR** na <a href="https://www.conceptu.ind.br/">Conceptu Protótipos & Sistemas</a>
 
 ## 🚀 Minhas Skills
 
