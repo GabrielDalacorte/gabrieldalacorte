@@ -5,7 +5,7 @@
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Bacharelado em **Analise e Desenvolvimento de Sistemas** pelo <a href="https://www.senacrs.com.br">Senac</a>.
-- 🎓 MBA em **Ciências de Dados e Inteligência Artificial ( Em progresso ) ** pelo <a href="https://salavirtual.pucrs.br">PUCRS</a>.
+- 🎓 MBA em **Ciências de Dados e Inteligência Artificial** pelo <a href="https://salavirtual.pucrs.br">PUCRS</a>.
 
 ## 🚀 Minhas Skills
 
